@@ -1,0 +1,1 @@
+Developed an interactive Power BI dashboard to analyze waste generation, collection, disposal, and recycling across different regions. Provides key insights through KPIs, charts, and interactive filters to support efficient waste management and smarter city planning.
